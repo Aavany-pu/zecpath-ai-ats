@@ -1,0 +1,19 @@
+{
+    "candidate_id": "C001",
+    "education": {
+        "degree": "Bachelor of Technology",
+        "field_of_study": "Computer Science",
+        "institution": "ABC University",
+        "graduation_year": "2024"
+    },
+    "certifications": [
+        {
+            "name": "AWS Cloud Practitioner",
+            "category": "Cloud Computing"
+        },
+        {
+            "name": "Google Data Analytics",
+            "category": "Data Analytics"
+        }
+    ]
+}
