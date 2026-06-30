@@ -1,44 +1,36 @@
+import re
+
+
 def extract_experience(resume_text):
 
-    lines = resume_text.split("\n")
+    experience = 0
 
-    experience_keywords = [
-        "experience",
-        "work experience",
-        "professional experience",
-        "employment history"
+    patterns = [
+
+        r"(\d+)\+?\s*years",
+
+        r"(\d+)\+?\s*year",
+
+        r"(\d+)\s*yrs",
+
+        r"(\d+)\s*yr"
+
     ]
 
-    stop_keywords = [
-        "education",
-        "skills",
-        "projects",
-        "certifications",
-        "achievements",
-        "languages",
-        "interests",
-        "contact"
-    ]
+    for pattern in patterns:
 
-    experience_section = False
-    experience_details = []
+        match = re.search(
+            pattern,
+            resume_text,
+            re.IGNORECASE
+        )
 
-    for line in lines:
+        if match:
 
-        line = line.strip()
+            experience = int(
+                match.group(1)
+            )
 
-        if not line:
-            continue
+            break
 
-        if line.lower() in experience_keywords:
-            experience_section = True
-            continue
-
-        if experience_section:
-
-            if line.lower() in stop_keywords:
-                break
-
-            experience_details.append(line)
-
-    return 
+    return experience
