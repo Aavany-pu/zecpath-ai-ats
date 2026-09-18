@@ -1,0 +1,7 @@
+Storage Policy Status: Configured externally
+Transcript Storage: Secure Storage Required
+Report Storage: Secure Storage Required
+Access Protection: Required
+Data Encryption: Required According To Organizational Policy
+Storage Access Logging: Required
+Unauthorized Access Handling: Defined By Security Policy

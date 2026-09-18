@@ -1,0 +1,7 @@
+Analysis Type: Non-Invasive Observable Behavioral Analysis
+Candidate Score Status: Not Generated
+Hiring Decision Status: Not Generated
+Limitation 1: Behavioral observations require an appropriate observation source.
+Limitation 2: Observable behavior must not be treated as proof of personality or intent.
+Limitation 3: Behavioral analysis should not independently determine hiring decisions.
+Limitation 4: Accessibility and individual differences must be considered.

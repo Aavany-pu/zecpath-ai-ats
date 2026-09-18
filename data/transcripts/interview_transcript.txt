@@ -1,0 +1,48 @@
+Question: Tell me about yourself.
+Answer: I am a BTech graduate. എനിക്ക് AI മേഖലയിൽ ജോലി ചെയ്യാൻ താൽപര്യമുണ്ട്.
+
+Question: Explain your educational background.
+Answer: I completed BTech in Artificial Intelligence and Machine Learning.
+
+Question: Describe your work experience.
+Answer: I am a fresher, പക്ഷേ ഞാൻ നിരവധി Python projects ചെയ്തിട്ടുണ്ട്.
+
+Question: What are your technical skills?
+Answer: Python, SQL, Machine Learning, Django.
+
+Question: Can you describe one Python project you worked on?
+Answer: I developed an AI-based resume screening system. ഇത് resume parsing ചെയ്യുകയും candidate score നൽകുകയും ചെയ്യുന്നു.
+
+Question: What is your expected salary?
+Answer: 8 LPA.
+
+Question: When can you join?
+Answer:
+
+Question: Why should we hire you?
+Answer: I am hardworking, quick to learn, കൂടാതെ പുതിയ technologies പഠിക്കാൻ എനിക്ക് ഇഷ്ടമാണ്.
+
+
+Reasoning Question: Why do you think your background is suitable for this role?
+Reasoning Answer: My skills and projects match this role.
+
+Reasoning Question: Explain why you believe your skills match this position.
+Reasoning Answer: My experience fits the job requirements.
+
+Reasoning Question: Why did you choose that solution?
+Reasoning Answer: It gave the best result.
+
+Reasoning Question: Why did you choose teamwork?
+Reasoning Answer: Teamwork improves decisions.
+
+Reasoning Question: Why is prioritization important?
+Reasoning Answer: It helps finish important tasks first.
+
+Reasoning Question: Why discuss the timeline first?
+Reasoning Answer: It helps plan the work properly.
+
+Reasoning Question: Why did you choose Python?
+Reasoning Answer: Python is simple and powerful.
+
+Reasoning Question: Why learn the fundamentals first?
+Reasoning Answer: They build a strong foundation.

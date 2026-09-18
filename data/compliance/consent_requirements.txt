@@ -1,0 +1,6 @@
+Consent Requirements
+Candidate must be informed that their application data will be processed.
+Candidate must be informed that interview responses may be analyzed by an AI system.
+Candidate must provide consent before AI-based evaluation begins.
+Candidate should be informed about the purpose of data processing.
+Candidate should be informed about applicable data retention practices.

@@ -1,0 +1,5 @@
+Intent Detection Status: Configured externally
+Intent Evaluation Source: Interview interaction data
+Intent Consistency Check: Enabled
+Intent Refinement Status: Requires Evaluation Results
+Intent Confidence Source: Configured evaluation evidence

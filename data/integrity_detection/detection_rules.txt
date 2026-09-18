@@ -1,0 +1,4 @@
+Tab Switching Frequency: Detect repeated tab switching events
+Loss of Screen Focus: Detect periods when interview screen loses focus
+External Voice Detection: Detect voice activity from outside the interview interaction
+Repeated Looking Away: Detect repeated observable gaze-away events

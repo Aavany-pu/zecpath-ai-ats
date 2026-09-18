@@ -1,0 +1,23 @@
+[
+    {
+        "question": "Tell me about yourself."
+    },
+    {
+        "question": "Explain your educational background."
+    },
+    {
+        "question": "Describe your work experience."
+    },
+    {
+        "question": "What are your technical skills?"
+    },
+    {
+        "question": "What is your expected salary?"
+    },
+    {
+        "question": "When can you join?"
+    },
+    {
+        "question": "Why should we hire you?"
+    }
+]

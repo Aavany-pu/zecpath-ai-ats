@@ -1,0 +1,2 @@
+Code Snapshot: Capture submitted code state during the machine test
+Execution Result: Capture the result produced by executing the submitted task

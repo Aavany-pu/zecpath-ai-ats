@@ -1,0 +1,18 @@
+{
+    "intent": "skills",
+    "experience": "Not Available",
+    "optimized_score": 80.0,
+    "decision": "PASS",
+    "behavior": {
+        "confidence": {
+            "hesitations": 0,
+            "word_count": 4,
+            "confidence_score": 100
+        },
+        "sentiment": {
+            "positive_words": 0,
+            "negative_words": 0,
+            "sentiment": "Neutral"
+        }
+    }
+}

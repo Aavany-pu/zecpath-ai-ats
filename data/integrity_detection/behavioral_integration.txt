@@ -1,0 +1,4 @@
+Behavioral Signal Source:  Behavioral AI
+Integrity Signal Source: Integrity Detection
+Integration Mode: Joint Observable Signal Analysis
+Decision Mode: Requires Evidence Review

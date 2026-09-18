@@ -1,0 +1,4 @@
+Time Measurement: Capture the elapsed time used to complete a machine test
+Time Evaluation: Compare recorded completion time with the configured task time
+Time Scoring: Apply the externally configured time-scoring policy
+Time Status: Requires Recorded Execution Data

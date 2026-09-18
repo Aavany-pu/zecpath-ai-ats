@@ -1,0 +1,10 @@
+Candidate Response Record
+
+Question: Tell us about your experience with Python.
+Response: I have used Python for application development, automation, data processing, and API integration.
+
+Question: Describe a challenging project you worked on.
+Response: I worked on a project where I integrated multiple services through APIs and had to debug inconsistent data between systems.
+
+Question: Why are you interested in this role?
+Response: The role matches my software development experience and gives me an opportunity to work on production-level applications.

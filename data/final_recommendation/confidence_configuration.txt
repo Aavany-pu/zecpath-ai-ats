@@ -1,0 +1,3 @@
+Confidence Source: Decision evidence and configured evaluation results
+Confidence Status: Requires Evaluation Evidence
+Confidence Output: Derived from available decision evidence

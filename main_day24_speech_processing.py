@@ -110,3 +110,19 @@ for file in os.listdir(
             accuracy,
             "%"
         )
+        output_folder = "speech_processing"
+
+output_file = os.path.join(
+    output_folder,
+    "transcript_output.txt"
+)
+
+with open(
+    output_file,
+    "w",
+    encoding="utf-8"
+) as file:
+
+    file.write(
+        normalized_text
+    )

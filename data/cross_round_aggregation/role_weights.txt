@@ -1,0 +1,6 @@
+Role: General
+ATS: 15
+Screening: 15
+HR Interview: 20
+Technical Interview: 30
+Machine Test: 20

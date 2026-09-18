@@ -1,0 +1,3 @@
+MERN Developer: JavaScript, React, Node.js, Express, MongoDB
+Java Developer: Java, Spring, Spring Boot, SQL
+DevOps Engineer: Linux, Docker, Kubernetes, CI/CD, Cloud

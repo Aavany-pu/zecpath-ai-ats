@@ -1,0 +1,10 @@
+Candidate Response Record
+
+Question: Tell us about your experience with Python.
+Response: I have used Python for academic projects and small software applications.
+
+Question: Describe a challenging project you worked on.
+Response: I worked on a college project where I developed several application features and fixed bugs.
+
+Question: Why are you interested in this role?
+Response: I am interested because it matches my programming background.

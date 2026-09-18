@@ -1,0 +1,5 @@
+Behavior Risk Source: Day 48 Behavioral AI
+Integrity Risk Source: Day 49 Integrity Detection
+Behavior Risk Status: Requires Behavioral Evidence
+Integrity Risk Status: Requires Integrity Evidence
+Risk Evaluation: Requires Configured Evidence

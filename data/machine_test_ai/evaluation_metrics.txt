@@ -1,0 +1,4 @@
+Correctness
+Efficiency
+Code Quality
+Problem-Solving Approach

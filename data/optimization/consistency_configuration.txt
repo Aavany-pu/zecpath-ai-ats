@@ -1,0 +1,5 @@
+Round Consistency Status: Configured externally
+Consistency Evaluation Source: Multi-round evaluation results
+Consistency Comparison: Enabled
+Consistency Analysis Status: Requires Evaluation Results
+Consistency Refinement: Based on observed round differences

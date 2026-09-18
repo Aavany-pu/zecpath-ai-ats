@@ -1,0 +1,10 @@
+Candidate Response Record
+
+Question: Tell us about your experience with Python.
+Response: I have basic Python knowledge.
+
+Question: Describe a challenging project you worked on.
+Response: I completed an academic project.
+
+Question: Why are you interested in this role?
+Response: I am looking for a software development opportunity.

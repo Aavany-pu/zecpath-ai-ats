@@ -1,0 +1,7 @@
+Consent Policy Status: Configured externally
+Transcript Usage: Requires User Consent
+Interview Recording Usage: Requires User Consent
+AI Evaluation Usage: Requires User Consent
+Report Generation Usage: Requires User Consent
+Consent Verification: Required Before Processing
+Consent Withdrawal: Supported According To Organizational Policy

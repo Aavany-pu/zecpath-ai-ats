@@ -1,0 +1,24 @@
+{
+    "Candidate Summary": {
+        "Skills": [
+            "Python",
+            "Sql"
+        ],
+        "Experience": "Not Available",
+        "Salary": "Not Mentioned",
+        "Availability": "Unknown",
+        "Screening Score": 80.0,
+        "Behavior": {
+            "confidence": {
+                "hesitations": 0,
+                "word_count": 4,
+                "confidence_score": 100
+            },
+            "sentiment": {
+                "positive_words": 0,
+                "negative_words": 0,
+                "sentiment": "Neutral"
+            }
+        }
+    }
+}

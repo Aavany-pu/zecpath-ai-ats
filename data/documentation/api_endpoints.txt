@@ -1,0 +1,16 @@
+API Endpoints
+
+POST /candidate/screen
+Purpose: Process candidate screening information.
+
+POST /interview/start
+Purpose: Start an HR interview session.
+
+POST /interview/response
+Purpose: Process an interview response.
+
+GET /candidate/score
+Purpose: Retrieve candidate scoring information.
+
+GET /candidate/report
+Purpose: Retrieve the candidate evaluation report.

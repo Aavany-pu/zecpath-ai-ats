@@ -1,0 +1,4 @@
+Accuracy of Answer
+Depth of Explanation
+Logical Reasoning
+Real-World Applicability

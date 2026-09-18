@@ -1,0 +1,5 @@
+ATS Summary: data/ats
+Screening Results: data/screening
+HR Insights: data/hr
+Technical Performance: data/technical_scoring
+Behavioral Flags: data/behavioral_ai

@@ -1,0 +1,3 @@
+Score Evaluation: Requires configured score input
+Rule Evaluation: Requires configured rule input
+Decision Resolution: Combine score evaluation and rule evaluation

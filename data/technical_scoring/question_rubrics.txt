@@ -1,0 +1,3 @@
+Experience-Based Questions: Accuracy, Depth, Logical Reasoning, Real-World Applicability
+Conceptual Questions: Accuracy, Depth, Logical Reasoning
+Scenario-Based Problems: Accuracy, Depth, Logical Reasoning, Real-World Applicability

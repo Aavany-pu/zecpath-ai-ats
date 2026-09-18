@@ -1,0 +1,6 @@
+Minimum Score Threshold: Configured externally
+Selection Threshold: Configured externally
+Review Threshold: Configured externally
+Rejection Threshold: Configured externally
+Threshold Adjustment: Based on prediction error analysis
+Threshold Optimization Status: Requires Evaluation Results

@@ -4,7 +4,8 @@ from parsers.resume_parser import read_pdf
 from parsers.skill_extractor import extract_skills
 from parsers.experience_parser import extract_experience
 
-from screening.question_generation import (
+from screening.question_generation
+ import (
     generate_questions
 )
 

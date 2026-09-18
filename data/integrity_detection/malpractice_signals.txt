@@ -1,0 +1,4 @@
+Tab Switching Frequency
+Loss of Screen Focus
+External Voice Detection
+Repeated Looking Away

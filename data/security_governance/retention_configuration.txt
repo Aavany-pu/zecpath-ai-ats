@@ -1,0 +1,7 @@
+Retention Policy Status: Configured externally
+Transcript Retention: Defined by organizational policy
+Report Retention: Defined by organizational policy
+Score Log Retention: Defined by organizational policy
+Decision Log Retention: Defined by organizational policy
+Retention Review: Required according to organizational policy
+Deletion Process: Defined by organizational policy

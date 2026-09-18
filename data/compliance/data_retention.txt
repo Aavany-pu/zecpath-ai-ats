@@ -1,0 +1,6 @@
+Data Retention Policy
+Candidate application data retention period: Review Required
+Interview transcript retention period: Review Required
+AI evaluation results retention period: Review Required
+Data deletion process: Required after the approved retention period
+Retention policy review: Required

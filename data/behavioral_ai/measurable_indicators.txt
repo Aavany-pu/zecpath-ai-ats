@@ -1,0 +1,7 @@
+Focus Level: Sustained attention during the interview
+Distraction Frequency: Observable attention shifts during the interview
+Nervous Gestures: Observable repetitive movement events
+Gaze Stability: Consistency of observable gaze direction
+Head Movement: Frequency and pattern of observable head movements
+Facial Engagement: Observable facial participation during interaction
+Attention Patterns: Observable changes in attention across the interview
